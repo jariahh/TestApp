@@ -1,0 +1,4 @@
+varsEncrypted: true
+lastContext:
+    namespace: default
+    context: gke_hivehq-dev_us-central1_simple-autopilot-private-cluster
